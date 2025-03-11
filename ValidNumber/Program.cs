@@ -20,6 +20,7 @@ namespace ValidNumber
             {
                 Console.WriteLine("Invalid");
             }
+            Console.ReadKey();
         }
     }
 }

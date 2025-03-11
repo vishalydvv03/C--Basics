@@ -10,6 +10,9 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            bool x = Prime.IsPrime(9);
+            Console.WriteLine(x);
+            Console.WriteLine();
 
         }
     }
